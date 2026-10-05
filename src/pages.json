@@ -1,0 +1,13 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": { "navigationStyle": "custom", "backgroundColor": "#f6f7f4" }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "轻待办",
+    "backgroundColor": "#f6f7f4"
+  }
+}
